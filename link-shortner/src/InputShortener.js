@@ -19,7 +19,7 @@ export const InputShortener = ({ setInputValue }) => {
           onChange={(e) => setValue(e.target.value)}
         ></input>
         <button onClick={handleClick}>Shorten</button>
-      /div></div><
+      </div>
     </div>
   );
 };
